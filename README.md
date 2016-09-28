@@ -10,10 +10,10 @@ A GameMaker: Studio editor color pallet based on Atom's One Dark
 
 - Download/Clone the Repo (*or just create your own `.col` file copying `pallet.col` code content*)
 - In GameMaker: Studio go to:
-    - File > Preferences;
-    - *Scripts and Code* tab;
-    - In **Colors** click on `Import`;
-    - Then select the `pallet.col` file.
+    - File > Preferences
+    - *Scripts and Code* tab
+    - In **Colors** click on `Import`
+    - Then select the `pallet.col` file
 
 ## [PT-BR] Instruções de Uso
 
