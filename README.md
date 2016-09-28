@@ -3,7 +3,7 @@
 A GameMaker: Studio editor color pallet based on Atom's One Dark
 
 <div style="text-align:center">
-    <img src="img/print1.png" />
+    <img src="img/print1.PNG" />
 </div>
 
 ## [EN] Use Instructions
